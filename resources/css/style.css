@@ -5,3 +5,10 @@ h1{font-size: 50px;
 color: White;}
 a:link {color: Aquamarine;
 font-size: 16px;}
+h2, h3{font-size: 42px;
+  color: White;
+font-weight: 300;}
+p{font-size: 21px;
+color: Gray;}
+.Footer {text-align: right;}
+div {color: Gray;}
